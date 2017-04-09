@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/roompocer.unity
+  isLoaded: 1
+  isActive: 1
